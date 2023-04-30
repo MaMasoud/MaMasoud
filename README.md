@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **MaMasoud/MaMasoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Mahmoud Masoud!
+# Hi, I'm Mahmoud Masoud! 👋
 
-I'm a Software Engineering student with a passion for coding and problem-solving. I'm currently learning about web development and machine learning.
+I'm a Software Engineering student with a passion for coding and problem-solving. I'm currently learning about web development and Software Engineering.
 
 ## Skills
 
 - Python
-- JavaScript
+- SQLITE
 - HTML/CSS
-- SQL
+- Flask
+
 
 ## Projects
 
@@ -31,7 +32,6 @@ I'm a Software Engineering student with a passion for coding and problem-solving
 
 ## Interests
 
-- Artificial Intelligence
 - Web Development
-- Gaming
+- Backend Developer
 
