@@ -27,7 +27,7 @@ I'm a Software Engineering student with a passion for coding and problem-solving
 
 ## Projects
 
-- [Project 1](https://github.com/mahmoudmasoud/project1)
+- [Project 1](https://github.com/MaMasoud/YTubecourses)
 - [Project 2](https://github.com/mahmoudmasoud/project2)
 
 ## Interests
