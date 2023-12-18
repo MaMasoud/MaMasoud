@@ -23,6 +23,7 @@ I'm a Software Engineering student with a passion for coding and problem-solving
 - Python
 - SQLITE
 - HTML/CSS
+- Js
 - Flask
 
 
@@ -33,5 +34,7 @@ I'm a Software Engineering student with a passion for coding and problem-solving
 ## Interests
 
 - Web Development
+- FrontEnd Developer
 - Backend Developer
+- Full stack Developer
 
