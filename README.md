@@ -10,7 +10,7 @@ I'm a Software Engineering student with a passion for coding and problem-solving
 *   🌍  I'm based in Egypt, Alexandria
 *   ✉️  You can contact me at [MasoudOffice123@gmail.com](mailto:MasoudOffice123@gmail.com)
 *   🚀  I'm currently working on [E3lanoTopia](http://e3lanotopia.com/)
-*   🧠  I'm learning React<a href="https://www.github.com/MaMasoud" target="_blank" rel="noreferrer">
+*   🧠  I'm Working with React and Next<a href="https://www.github.com/MaMasoud" target="_blank" rel="noreferrer">
 
 <img src="https://img.shields.io/github/followers/MaMasoud?logo=github&style=for-the-badge&color=6366f1&labelColor=0f172a" />
 
