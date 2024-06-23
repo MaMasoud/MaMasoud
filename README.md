@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmoud Masoud
 ======================================================================================================================================
 
-Full Stack Devoloper and Ui Designer
+Full Stack Devoloper and Ui UX Designer
 ------------------------------------
 
 I'm a Software Engineering student with a passion for coding and problem-solving. I'm currently learning about web development and Software Engineering.
